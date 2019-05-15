@@ -4,7 +4,7 @@ import (
 	"os"
 	"os/signal"
 
-	clogger "bitbucket.org/sartura/netfilter-queue/common/lib/logger"
+	clogger "github.com/sartura/netfilter-queue/common/lib/logger"
 )
 
 func main() {

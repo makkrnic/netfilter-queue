@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net"
 
-	clogger "bitbucket.org/sartura/netfilter-queue/common/lib/logger"
+	clogger "github.com/sartura/netfilter-queue/common/lib/logger"
 
-	"bitbucket.org/sartura/netfilter-queue/src/config"
+	"github.com/sartura/netfilter-queue/src/config"
 	"go.uber.org/zap"
 )
 
